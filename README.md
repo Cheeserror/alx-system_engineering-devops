@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Display current directory contents in a long format
