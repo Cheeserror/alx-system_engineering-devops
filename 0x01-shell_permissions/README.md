@@ -1,1 +1,1 @@
-permissions for other users only
+sets the mode of the file hello to the output
